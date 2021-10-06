@@ -3,8 +3,7 @@
 /*
    Name: Etu Das
    Date: 07/11/2021
-   Course/Section: IT 206-B01
-   Assignment: Programming Assignment 4  
+  
    Description:
    
    This program allows you to track all of the company's servers.  This object oriented program allows the user to enter server name, what kind of 
